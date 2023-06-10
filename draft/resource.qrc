@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>img/1674271836_catherineasquithgallery_com_p_fon_sport_serii_foto_23.png</file>
+        <file>file/CardioGoodFitness.csv</file>
+        <file>img/0_2.png</file>
+    </qresource>
+    <qresource prefix="/data"/>
+</RCC>
